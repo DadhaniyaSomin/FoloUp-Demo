@@ -158,11 +158,6 @@ function Interviews() {
                         </div>
                       </div>
                     </div>
-                    <p className="text-l text-center">
-                      Contact{" "}
-                      <span className="font-semibold">founders@folo-up.co</span>{" "}
-                      to upgrade your plan.
-                    </p>
                   </div>
                 </Modal>
               )}
