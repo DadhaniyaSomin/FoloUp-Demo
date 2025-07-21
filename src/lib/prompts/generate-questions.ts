@@ -14,7 +14,7 @@ Interview Objective: ${body.objective}
 Number of questions to be generated: ${body.number}
 
 Follow these detailed guidelines when crafting the questions:
-- Focus on evaluating the candidate's  experience working on relevant projects. Questions should aim to gauge depth of expertise, problem-solving ability, and hands-on project experience. These aspects carry the most weight.
+- Focus on evaluating the candidate's experience working on relevant projects. Questions should aim to gauge depth of expertise, problem-solving ability, and hands-on project experience. These aspects carry the most weight.
 - Include questions designed to assess problem-solving skills through practical examples. For instance, how the candidate has tackled challenges in previous projects, and their approach to complex technical issues.
 - Soft skills such as communication, teamwork, and adaptability should be addressed, but given less emphasis compared to technical and problem-solving abilities.
 - Maintain a professional yet approachable tone, ensuring candidates feel comfortable while demonstrating their knowledge.
